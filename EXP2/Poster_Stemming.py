@@ -23,5 +23,5 @@ text = '''In Brazil they drive on the right-hand side of the road. Brazil has a 
 
 text1 = word_tokenize(text)            
 
-for word in text:
+for word in text1:
     print(ps.stem(word))
