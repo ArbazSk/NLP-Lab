@@ -1,0 +1,10 @@
+Lemmatization on word
+rocks : rock
+Anaconda : anaconda
+Lemmatization on lists of word
+bats : bat
+sports : sport
+equipments : equipment
+computer : computer
+Lemmatization on Sentence
+The striped bat are hanging on their foot for best view of the inverted world .
